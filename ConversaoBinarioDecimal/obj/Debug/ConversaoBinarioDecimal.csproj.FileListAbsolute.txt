@@ -1,0 +1,10 @@
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\ConversaoBinarioDecimal\ConversaoBinarioDecimal\obj\Debug\ConversaoBinarioDecimal.csprojAssemblyReference.cache
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\ConversaoBinarioDecimal\ConversaoBinarioDecimal\obj\Debug\ConversaoBinarioDecimal.Form1.resources
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\ConversaoBinarioDecimal\ConversaoBinarioDecimal\obj\Debug\ConversaoBinarioDecimal.Properties.Resources.resources
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\ConversaoBinarioDecimal\ConversaoBinarioDecimal\obj\Debug\ConversaoBinarioDecimal.csproj.GenerateResource.cache
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\ConversaoBinarioDecimal\ConversaoBinarioDecimal\obj\Debug\ConversaoBinarioDecimal.csproj.CoreCompileInputs.cache
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\ConversaoBinarioDecimal\ConversaoBinarioDecimal\bin\Debug\ConversaoBinarioDecimal.exe.config
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\ConversaoBinarioDecimal\ConversaoBinarioDecimal\bin\Debug\ConversaoBinarioDecimal.exe
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\ConversaoBinarioDecimal\ConversaoBinarioDecimal\bin\Debug\ConversaoBinarioDecimal.pdb
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\ConversaoBinarioDecimal\ConversaoBinarioDecimal\obj\Debug\ConversaoBinarioDecimal.exe
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\ConversaoBinarioDecimal\ConversaoBinarioDecimal\obj\Debug\ConversaoBinarioDecimal.pdb
