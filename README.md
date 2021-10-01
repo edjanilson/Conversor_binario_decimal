@@ -1,2 +1,3 @@
 # conversor_binario_decimal
-Pequeno sistema feito em C# com Windows forms que permite converter um número binário em decimal.
+
+Small system made in C# with Windows forms that allows you to convert a binary number into decimal. 
